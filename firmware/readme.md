@@ -1,6 +1,4 @@
-# orpheuspad
-
-*A short description of the keyboard/project*
+# Hackpad
 
 * Keyboard Maintainer: [Matthew Chen](https://github.com/matthewychen)
 * Hardware Supported: *The PCBs, controllers supported*
